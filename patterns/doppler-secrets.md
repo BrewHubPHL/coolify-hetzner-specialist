@@ -59,5 +59,5 @@ Edit Doppler → restart Coolify resource (rolling restart). No `.env` in git.
 
 ## References
 
-- BrewHub `docs/secrets-architecture.md` (in main monorepo)
+- your `secrets-architecture` doc (in your monorepo)
 - [Environment variables (Coolify)](https://coolify.io/docs/knowledge-base/environment-variables)
